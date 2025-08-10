@@ -1,0 +1,14 @@
+C:\Coding\TheColor\bin\Debug\net8.0\TheColor.exe
+C:\Coding\TheColor\bin\Debug\net8.0\TheColor.deps.json
+C:\Coding\TheColor\bin\Debug\net8.0\TheColor.runtimeconfig.json
+C:\Coding\TheColor\bin\Debug\net8.0\TheColor.dll
+C:\Coding\TheColor\bin\Debug\net8.0\TheColor.pdb
+C:\Coding\TheColor\obj\Debug\net8.0\TheColor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding\TheColor\obj\Debug\net8.0\TheColor.AssemblyInfoInputs.cache
+C:\Coding\TheColor\obj\Debug\net8.0\TheColor.AssemblyInfo.cs
+C:\Coding\TheColor\obj\Debug\net8.0\TheColor.csproj.CoreCompileInputs.cache
+C:\Coding\TheColor\obj\Debug\net8.0\TheColor.dll
+C:\Coding\TheColor\obj\Debug\net8.0\refint\TheColor.dll
+C:\Coding\TheColor\obj\Debug\net8.0\TheColor.pdb
+C:\Coding\TheColor\obj\Debug\net8.0\TheColor.genruntimeconfig.cache
+C:\Coding\TheColor\obj\Debug\net8.0\ref\TheColor.dll
